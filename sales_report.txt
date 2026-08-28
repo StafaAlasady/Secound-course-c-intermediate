@@ -1,0 +1,30 @@
+DAILY SALES REPORT
+==================
+Product        Quantity  Price     
+Laptop         5         $999.99
+Mouse          12        $29.99
+House/mansion  5         $90009990.99
+Cars           5         $9000099.99
+DAILY SALES REPORT
+==================
+Product        Quantity  Price     
+Laptop         5         $999.99
+Mouse          12        $29.99
+House/mansion  5         $90009990.99
+Cars           5         $9000099.99
+DAILY SALES REPORT
+==================
+Product        Quantity  Price     
+Laptop         5         $999.99
+Mouse          12        $29.99
+House/mansion  5         $90009990.99
+Cars           5         $9000099.99
+Helicopter     5         $5900099.99
+DAILY SALES REPORT
+==================
+Product        Quantity  Price     
+Laptop         5         $999.99
+Mouse          12        $29.99
+House/mansion  5         $90009990.99
+Cars           5         $9000099.99
+Helicopter     5         $5900099.99

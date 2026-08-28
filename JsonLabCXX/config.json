@@ -1,0 +1,7 @@
+{
+            "app_name": "FileBasedApp",
+            "version": "2.0.0",
+            "debug_mode": false,
+            "max_connections": 200,
+            "features": ["logging", "caching", "monitoring"]
+        }

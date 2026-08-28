@@ -1,0 +1,23 @@
+# CMake build directories
+build/
+bin/
+lib/
+CMakeCache.txt
+CMakeFiles/
+
+# Compiled executables & objects
+*.exe
+*.out
+*.o
+*.obj
+capstone_app
+run_tests
+
+# Generated output files
+processed_output.json
+
+# IDE and Editor settings
+.vscode/
+.vs/
+.idea/
+*.user

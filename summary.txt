@@ -1,0 +1,8 @@
+INVENTORY SUMMARY
+=================
+Product: Widget A, Qty: 25, Value: $387.50
+Product: Widget B, Qty: 40, Value: $880.00
+Product: Widget C, Qty: 15, Value: $131.25
+
+Total Items: 80
+Total Value: $1398.75

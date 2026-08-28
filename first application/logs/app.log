@@ -1,0 +1,21 @@
+[LOG] starting application
+[LOG] starting application
+[LOG] starting application
+[LOG]starting application
+[LOG]All input paths verified successfully.
+[LOG]Application finished running.
+[LOG]starting application
+[LOG]All input paths verified successfully.
+[LOG]Application finished running.
+[LOG]starting application
+[LOG]ERROR: Config file missing at config/config.txt
+[LOG]starting application
+[LOG]All input paths verified successfully.
+[LOG]Application finished running.
+[LOG]starting application
+[LOG]ERROR: data file missing at data/data.csv
+[LOG]starting application
+[LOG]ERROR: data file missing at data/data.csv
+[LOG]starting application
+[LOG]All input paths verified successfully.
+[LOG]Application finished running.

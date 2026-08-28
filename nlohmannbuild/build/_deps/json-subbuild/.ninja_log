@@ -1,0 +1,21 @@
+# ninja log v7
+1	42	8091538255400545	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	ebafa77693b0ba3c
+1	42	8091538255400545	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	ebafa77693b0ba3c
+42	849	8091538263462138	json-populate-prefix/src/json-populate-stamp/json-populate-download	a8f4e258079a55b2
+42	849	8091538263462138	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	a8f4e258079a55b2
+849	891	8091538263895612	json-populate-prefix/src/json-populate-stamp/json-populate-update	f099eb697be6f2ce
+849	891	8091538263895612	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	f099eb697be6f2ce
+892	934	8091538264319421	json-populate-prefix/src/json-populate-stamp/json-populate-patch	fab303774df22287
+892	934	8091538264319421	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	fab303774df22287
+934	973	8091538264714238	json-populate-prefix/src/json-populate-stamp/json-populate-configure	11526d62d9b7d640
+934	973	8091538264714238	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	11526d62d9b7d640
+973	1013	8091538265119181	json-populate-prefix/src/json-populate-stamp/json-populate-build	87244837b16c01aa
+973	1013	8091538265119181	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	87244837b16c01aa
+1013	1053	8091538265516598	json-populate-prefix/src/json-populate-stamp/json-populate-install	e37db8aa648324ad
+1013	1053	8091538265516598	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	e37db8aa648324ad
+1053	1092	8091538265901522	json-populate-prefix/src/json-populate-stamp/json-populate-test	6a0dffecc6187d97
+1053	1092	8091538265901522	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	6a0dffecc6187d97
+1092	1144	8091538266430047	CMakeFiles/json-populate-complete	cdeb5ea5212708ce
+1092	1144	8091538266430047	json-populate-prefix/src/json-populate-stamp/json-populate-done	cdeb5ea5212708ce
+1092	1144	8091538266430047	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/CMakeFiles/json-populate-complete	cdeb5ea5212708ce
+1092	1144	8091538266430047	C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	cdeb5ea5212708ce

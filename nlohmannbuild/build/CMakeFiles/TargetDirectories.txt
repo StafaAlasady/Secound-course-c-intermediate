@@ -1,0 +1,5 @@
+C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/CMakeFiles/nlohmannbuild.dir
+C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/CMakeFiles/edit_cache.dir
+C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-build/CMakeFiles/edit_cache.dir
+C:/Users/Stafa/Downloads/Secound course C++ intermediate/nlohmannbuild/build/_deps/json-build/CMakeFiles/rebuild_cache.dir

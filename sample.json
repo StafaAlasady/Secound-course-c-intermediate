@@ -1,0 +1,5 @@
+[
+  { "name": "Monitor", "price": 199.99, "quantity": 1 },
+  { "name": "Headphones", "price": 49.99, "quantity": 4 },
+  { "name": "Desk Lamp" }
+]

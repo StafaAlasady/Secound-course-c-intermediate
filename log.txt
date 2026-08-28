@@ -1,0 +1,4 @@
+INFO starting application
+[INFO] Read the CSV file...
+[INFO] Read the json file
+application finished running
